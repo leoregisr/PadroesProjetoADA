@@ -1,0 +1,16 @@
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\PadroesProjetoADA.exe
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\PadroesProjetoADA.deps.json
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\PadroesProjetoADA.runtimeconfig.json
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\PadroesProjetoADA.runtimeconfig.dev.json
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\PadroesProjetoADA.dll
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\ref\PadroesProjetoADA.dll
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\bin\Debug\net5.0\PadroesProjetoADA.pdb
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.csprojAssemblyReference.cache
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.AssemblyInfoInputs.cache
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.AssemblyInfo.cs
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.csproj.CoreCompileInputs.cache
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.dll
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\ref\PadroesProjetoADA.dll
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.pdb
+C:\Projetos\IGTI\PadroesProjetoADA\PadroesProjetoADA\obj\Debug\net5.0\PadroesProjetoADA.genruntimeconfig.cache

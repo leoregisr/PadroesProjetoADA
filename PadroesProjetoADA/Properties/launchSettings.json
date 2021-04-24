@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PadroesProjetoADA": {
+      "commandName": "Project",
+      "commandLineArgs": "\"leo\" \"senha\""
+    }
+  }
+}
